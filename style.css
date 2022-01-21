@@ -1,0 +1,13 @@
+.heder {
+  color: bisque;
+  height: 95px;
+  background-color: #50a2e0;
+}
+
+div {
+  border: 1px solid red;
+}
+
+.dino {
+  color: green;
+}
